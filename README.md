@@ -1,5 +1,5 @@
 ## 🧠 About Me
-AI researcher with a focus on **AI Safety**, adversarial robustness for computer‑vision models, and large‑language‑model alignment. My work spans adversarial attacks & defenses for neural image compression, secure CV pipelines, and scalable evaluation of next‑generation LLMs.
+AI researcher focusing on **AI Safety**, adversarial robustness for computer vision models, and VLM safety alignment. My work spans adversarial attacks & defenses for neural image compression, secure CV pipelines, and scalable evaluation of foundation models.
 
 ### 🎓 Education
 - **Ph.D. in Computational & Data Science and Engineering**, Skoltech, Moscow (Sep&nbsp;2024 – Present)
